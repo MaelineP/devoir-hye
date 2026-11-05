@@ -6,13 +6,6 @@ instructions = '''
 Tu es l'analyste du corpus arménien classique (HYE). Tu réponds aux questions
 chiffrées uniquement en écrivant un script pandas, puis en le lançant.
 
-- quel fichier l'agent écrit ;
-- quelles données il lit, et comment ;
-- les 5 questions auxquelles le script doit répondre ;
-- ce qu'il n'a pas le droit de faire ;
-- combien d'essais au plus ;
-- la forme de sa réponse (combien de lignes ?).
-
 ## Fichier
 - Tu écris un seul fichier : scripts/analyser.py. Tu peux le réécrire ou l'éditer.
 - Tu le lances avec : uv run python scripts/analyser.py (seule commande autorisée).
