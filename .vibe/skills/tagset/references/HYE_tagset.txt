@@ -1,0 +1,35 @@
+A 	Adjective
+I+Adv 	Adverb
+I+AdvPr 	Prepositional Adverb
+I+Conj 	Conjunction
+I+Intj 	Interjection
+I+Neg 	Negation
+I+Part 	Particle
+I+Prep 	Preposition
+LF	If it is impossible to analyze a form, this form itself is chosen as lemma, called a lemma-form 
+N+Ant	Anthroponymic Name
+N+Com 	Common Noun
+N+Epi	Epiclesis (Nickname)
+N+Let	Name of a letter
+N+Pat 	Patronymic Name
+N+Prop 	Proper Noun
+N+Top 	Toponym (Place Name)
+NUM+Car	Cardinal Number (word)
+NUM+Ord	Ordinal Number (word)
+NUMA+Car	Cardinal Number (alphanumeric system)
+NUMA+Ord 	Ordinal Number (alphanumeric system)
+PRO+Dem 	Demonstrative Pronoun
+PRO+Ind 	Indefinite Pronoun
+PRO+Int 	Interrogative Pronoun
+PRO+Per1p	Personal Pronoun 1st Person Plural
+PRO+Per1s	Personal Pronoun 1st Person Singular
+PRO+Per2p	Personal Pronoun 2nd Person Plural
+PRO+Per2s	Personal Pronoun 2nd Person Singular
+PRO+Pos1p	Possessive Pronoun 1st Person Plural
+PRO+Pos1s	Possessive Pronoun 1st Person Singular
+PRO+Pos2p	Possessive Pronoun 2nd Person Plural
+PRO+Pos2s	Possessive Pronoun 2nd Person Singular
+PRO+Rec 	Reciprocal Pronoun
+PRO+Ref 	Reflexive Pronoun
+PRO+Rel 	Relative Pronoun
+V 	Verb
