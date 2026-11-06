@@ -71,4 +71,10 @@ Utilise le sous-agent analyste pour écrire scripts/analyser.py puis le lancer. 
 
 Une erreur de l'agent : J'ai l'impression qu'il a assez bien exécuté les choses, je n'ai pas vu de mauvais filtre ni de fonction hors skills. 
 
-En 3 lignes : qu'est-ce que l'agent apporte ici par rapport au notebook ? Qu'est-ce qu'il coûte ?
+Qu'est-ce que l'agent apporte ici par rapport au notebook ? L'agent permet de rendre plus lisible le notebook. Il répond aux questions en utilisant les éléments du notebook dont il a besoin sans avoir à chercher manuellement. Les 5 questions sont traitées d’un coup sans écrire chaque cellule. 
+
+Qu'est-ce qu'il coûte ?
+Il faut avoir accès à un modèle, une clé d’API et il y a des limites d’usage. Il faut aussi tout revérifier et ne pas se fier à tous ce que l'agent dit ; il peut se tromper dans les filtres, créer des fonctions hors skills. 
+
+
+
